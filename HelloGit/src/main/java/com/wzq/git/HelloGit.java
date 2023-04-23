@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("新电脑");
         System.out.println("2022-03-31");
         System.out.println(1);
+        System.out.println(423);
     }
 }
